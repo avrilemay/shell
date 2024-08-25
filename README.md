@@ -34,7 +34,9 @@ make
 
 Run the shell with:
 
+```bash
 ./projet
+```
 
 Use `monexit` to exit the shell, and `moncd` to change directories.
 
